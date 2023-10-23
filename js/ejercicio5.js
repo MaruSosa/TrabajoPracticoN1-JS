@@ -2,4 +2,4 @@
 */
 let numero1=parseInt(prompt('ingrese el primer número'));
 let numero2=parseInt(prompt('ingrese el segundo número'));
-console.log(numero1+numero2);
+document.write(numero1+numero2);
