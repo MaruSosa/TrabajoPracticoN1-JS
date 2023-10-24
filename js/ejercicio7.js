@@ -10,4 +10,5 @@ if(numero1>numero2&& numero1>numero3){
     }else{
         document.write('el '+numero3+' es el numero más grande');
     }
+     document.write('los Numeros son iguales');
 }
